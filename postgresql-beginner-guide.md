@@ -1,4 +1,14 @@
-# PostgreSQL Beginner Guide
+### 1. PostgreSQL Beginner Guide
+[Read the guide](postgresql-beginner-guide.md)
+
+## Table of Contents
+
+1. Introduction
+2. Installing PostgreSQL
+3. Creating Your First Database
+4. Running a Basic Query
+5. Common Beginner Mistakes
+6. Conclusion
 
 ## Introduction
 
@@ -20,7 +30,9 @@ After installation, the database server runs locally and can be accessed through
 
 Once PostgreSQL is installed, you can create a new database using a command like:
 
+```sql
 CREATE DATABASE my_first_database;
+```
 
 A database is a container that stores tables, data, and relationships.
 
