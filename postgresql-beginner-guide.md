@@ -44,7 +44,9 @@ Data in PostgreSQL is stored in tables.
 
 A simple query looks like this:
 
+```sql
 SELECT * FROM users;
+```
 
 This command retrieves all records from the "users" table.
 
